@@ -718,6 +718,10 @@ margin-top: 19px;
 .footer-wrapper{
   display: flex;
   text-align: center;
+  justify-content: space-between;
+}
+.Cradit{
+  display: flex;
   gap: 10px;
 }
 .Footer{
@@ -726,4 +730,5 @@ border-top: 1px solid #ffffff;
 }
 .accept{
 color: #ffffff;
+margin-top: 10px;
 }
