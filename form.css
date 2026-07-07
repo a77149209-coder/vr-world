@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+.body{
+  background-image: url(image/image\ \(30\).png);
+}
 /* From Uiverse.io by zanina-yassine */
 .form_container {
   width: fit-content;
