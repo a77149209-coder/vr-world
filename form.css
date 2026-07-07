@@ -3,12 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
-.body{
+.body {
   background-image: url(image/image\ \(30\).png);
   background-repeat: no-repeat;
   background-size: cover;
 }
-.return{
+.return {
   text-decoration: none;
   color: #ffffff;
 }
