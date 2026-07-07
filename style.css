@@ -112,6 +112,7 @@
   padding-bottom: 16px;
   padding-left: 32px;
   color: #ffffff;
+  cursor: pointer;
 }
 .btn {
   width: 263px;
@@ -125,6 +126,7 @@
   background-image: url(./images/4a24e4f59a7e542957a8b22d4bf556b48e08207b.png);
   background-position: end;
   color: #ffffff;
+  cursor: pointer;
 }
 /* neeeeeeeeeeeeeeeeeeeeeeeext sectioooooooooooooooooooon!!!!!!!!!!!!!!!!!!!!! */
 
@@ -291,6 +293,7 @@
   padding-bottom: 16px;
   padding-left: 32px;
   color: #ffffff;
+  cursor: pointer;
 }
 
 /* img section */
@@ -469,6 +472,7 @@
 }
 .btn-wr {
   margin-left: 490px;
+  cursor: pointer;
 }
 /* neeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeext seeeeeeeeeeeeeeeeeeeeectiooooooooooooooooooon!!!! */
 .action {
@@ -501,6 +505,7 @@
   color: #ffffff;
   background: linear-gradient(90deg, #bc08cf 0%, #2cbbe0 100%);
   margin-top: 10px;
+  cursor: pointer;
 }
 .Immerse {
   margin: 125px 200px;
@@ -662,6 +667,7 @@ iMg {
   margin-left: -173px;
   color: #ffffff;
   border: none;
+  cursor: pointer;
 }
 /* neeeeeeeeeeeeeeeeeeeeeeeeeeeeeext seeeeeeeeeeeeectiooooooooooooooooooooooooooooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 footer {

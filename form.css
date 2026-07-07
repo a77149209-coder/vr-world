@@ -6,8 +6,11 @@
 .body{
   background-image: url(image/image\ \(30\).png);
   background-repeat: no-repeat;
-  background-position: center;
   background-size: cover;
+}
+.return{
+  text-decoration: none;
+  color: #ffffff;
 }
 /* From Uiverse.io by zanina-yassine */
 .form_container {
