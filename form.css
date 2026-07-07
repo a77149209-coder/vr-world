@@ -5,6 +5,9 @@
 }
 .body{
   background-image: url(image/image\ \(30\).png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 /* From Uiverse.io by zanina-yassine */
 .form_container {
