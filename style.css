@@ -5,7 +5,7 @@
 }
 .header {
   width: 100%;
-  height: 750px;
+  height: 745px;
   background-image: url(./images/4a24e4f59a7e542957a8b22d4bf556b48e08207b.png);
 }
 .container {
@@ -146,7 +146,7 @@
   padding-left: 53px;
   border: 1px #bc08cf solid;
   margin-left: 10px;
-  transition: all 1s linear;
+  transition: all 0.5s linear;
   background: linear-gradient(
     54.17deg,
     rgba(188, 8, 207, 0.1) 8.96%,
@@ -163,7 +163,7 @@
   padding-bottom: 20px;
   padding-left: 53px;
   border: 1px #bc08cf solid;
-  transition: all 1s linear;
+  transition: all 0.5s linear;
   background: linear-gradient(
     54.17deg,
     rgba(188, 8, 207, 0.1) 8.96%,
@@ -180,7 +180,7 @@
   padding-bottom: 20px;
   padding-left: 53px;
   border: 1px #bc08cf solid;
-  transition: all 1s linear;
+  transition: all 0.5s linear;
   background: linear-gradient(
     54.17deg,
     rgba(188, 8, 207, 0.1) 8.96%,
@@ -197,7 +197,7 @@
   padding-bottom: 20px;
   padding-left: 53px;
   border: 1px #bc08cf solid;
-  transition: all 1s linear;
+  transition: all 0.5s linear;
   background: linear-gradient(
     54.17deg,
     rgba(188, 8, 207, 0.1) 8.96%,
@@ -691,7 +691,7 @@ footer {
   margin-top: 100px;
 }
 /* neeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeext seeeeeeeeeeeeeeeeeeeeeeeeeeeeeection!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
-.f-wrapper{
+.f-wrapper {
   margin-top: 100px;
 }
 .f-h3 {
@@ -703,38 +703,38 @@ footer {
   color: #ffffff;
   margin-block-end: 35px;
 }
-.lis{
+.lis {
   color: #ffffff;
   font-family: Open;
-font-weight: 600;
-font-size: 16px;
-line-height: 120%;
-letter-spacing: 0%;
-list-style: none;
-margin-top: 19px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 120%;
+  letter-spacing: 0%;
+  list-style: none;
+  margin-top: 19px;
 }
-.fo-wrapper{
+.fo-wrapper {
   margin-top: 100px;
 }
 /* neeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeext seeeeeeeeeeeeeeeeeeeeeeectioooooooooooooooooooooooooooooooooon!!!!!! */
-.foot-wrapper{
+.foot-wrapper {
   margin-top: 100px;
 }
 /* neeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeext seeeeeeeeeeeeeeeeectiooooooooooooooooooon!!!!!!!!!!!!! */
-.footer-wrapper{
+.footer-wrapper {
   display: flex;
   text-align: center;
   justify-content: space-between;
 }
-.Cradit{
+.Cradit {
   display: flex;
   gap: 10px;
 }
-.Footer{
-margin-top: 300px;
-border-top: 1px solid #ffffff;
+.Footer {
+  margin-top: 300px;
+  border-top: 1px solid #ffffff;
 }
-.accept{
-color: #ffffff;
-margin-top: 10px;
+.accept {
+  color: #ffffff;
+  margin-top: 10px;
 }
