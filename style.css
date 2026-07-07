@@ -525,10 +525,10 @@
 .CONTAINER {
   margin-block-end: 50px;
 }
-.Img{
+.Img {
   margin-left: -15px;
 }
-iMg{
+iMg {
   margin-left: -5;
 }
 /* neeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeextv seeeeeeeeeeeeeeeeeeeeeeectiiiiioooooooooooooooooooooooooooooon!!!!!!!!!!!!!!!! */
@@ -555,8 +555,8 @@ iMg{
   color: #ffffff;
   margin-top: 10px;
 }
-.s-Card{
-   width: 612px;
+.s-Card {
+  width: 612px;
   height: 300px;
   gap: 10px;
   border-radius: 20px;
@@ -568,95 +568,162 @@ iMg{
   background-position: center;
   background-size: cover;
 }
-.Card-wrapper{
+.Card-wrapper {
   display: flex;
   justify-content: space-between;
   gap: 13px;
 }
 /* neeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeext seeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeectioooooooooooooooooooooooon!!!!!!!!!!!! */
-.CArd{
+.CArd {
   margin-top: 300px;
 }
-.CArd-wrapper{
+.CArd-wrapper {
   display: flex;
   gap: 20px;
 }
-.F-CArd{
+.F-CArd {
   width: 294px;
-height: 250px;
-top: 5596.61px;
-left: 96px;
-gap: 10px;
-border-radius: 10px;
-padding: 20px;
-text-align: center;
-background: linear-gradient(54.17deg, rgba(188, 8, 207, 0.05) 8.96%, rgba(44, 187, 224, 0.05) 97.54%);
+  height: 250px;
+  top: 5596.61px;
+  left: 96px;
+  gap: 10px;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  background: linear-gradient(
+    54.17deg,
+    rgba(188, 8, 207, 0.05) 8.96%,
+    rgba(44, 187, 224, 0.05) 97.54%
+  );
 }
-.imG{
+.imG {
   width: 70px;
-height: 70px;
+  height: 70px;
 }
-.sp{
+.sp {
   width: 32px;
-height: 32px;
-top: 20.8px;
-left: 96px;
-background: linear-gradient(90deg, #BC08CF 0%, #2CBBE0 100%);
-border-radius: 50px;
-padding: 38px;
+  height: 32px;
+  top: 20.8px;
+  left: 96px;
+  background: linear-gradient(90deg, #bc08cf 0%, #2cbbe0 100%);
+  border-radius: 50px;
+  padding: 38px;
 }
-.email{
+.email {
   margin-top: 270px;
   background-image: url(images/4a24e4f59a7e542957a8b22d4bf556b48e08207b.png);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
-height: 211px;
+  height: 211px;
 }
-.wr{
+.wr {
   display: flex;
   justify-content: space-between;
 }
-.news{
+.news {
   margin-top: 40px;
 }
-.Newsletter{
-font-weight: 700;
-font-style: Bold;
-font-size: 56px;
-line-height: 120%;
-letter-spacing: 0%;
-color: #ffffff;
+.Newsletter {
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 56px;
+  line-height: 120%;
+  letter-spacing: 0%;
+  color: #ffffff;
 }
-.sign{
+.sign {
   color: #ffffff;
   opacity: 0.5;
 }
-.Btn{
+.input-wrapper {
+  display: flex;
+}
+.input {
+  width: 470px;
+  height: 67px;
+  border-radius: 50px;
+  padding-block: 16px;
+  padding-inline: 20px;
+  margin-top: 69px;
+  margin-left: 200px;
+  border: none;
+}
+.Btn {
   margin-top: 75px;
-width: 160px;
-height: 50px;
-gap: 10px;
-border-radius: 100px;
-padding-top: 16px;
-padding-right: 32px;
-padding-bottom: 16px;
-padding-left: 32px;
-background-color: #3E1467 ;
+  width: 166px;
+  height: 55px;
+  border-radius: 100px;
+  padding-top: 13px;
+  padding-right: 25px;
+  padding-bottom: 13px;
+  padding-left: 25px;
+  background-color: #561e8e;
+  margin-left: -173px;
+  color: #ffffff;
+  border: none;
 }
 /* neeeeeeeeeeeeeeeeeeeeeeeeeeeeeext seeeeeeeeeeeeectiooooooooooooooooooooooooooooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
-footer{
-  background-color: #1C1B1B;
+footer {
+  background-color: #1c1b1b;
   height: 450px;
 }
-.W{
-  color: #BC08CF;
+.W {
+  color: #8f0b9e;
 }
-.Icon{
+.foot {
+  display: flex;
+  gap: 133px;
+  margin-left: 146px;
+}
+.Icon {
   width: 176px;
-height: 32px;
-gap: 16px;
+  height: 32px;
+  gap: 16px;
 }
-.vR{
+.vR {
   margin-top: 100px;
+}
+/* neeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeext seeeeeeeeeeeeeeeeeeeeeeeeeeeeeection!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+.f-wrapper{
+  margin-top: 100px;
+}
+.f-h3 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 120%;
+  letter-spacing: 0%;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin-block-end: 35px;
+}
+.lis{
+  color: #ffffff;
+  font-family: Open;
+font-weight: 600;
+font-size: 16px;
+line-height: 120%;
+letter-spacing: 0%;
+list-style: none;
+margin-top: 19px;
+}
+.fo-wrapper{
+  margin-top: 100px;
+}
+/* neeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeext seeeeeeeeeeeeeeeeeeeeeeectioooooooooooooooooooooooooooooooooon!!!!!! */
+.foot-wrapper{
+  margin-top: 100px;
+}
+/* neeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeext seeeeeeeeeeeeeeeeectiooooooooooooooooooon!!!!!!!!!!!!! */
+.footer-wrapper{
+  display: flex;
+  text-align: center;
+  gap: 10px;
+}
+.Footer{
+margin-top: 300px;
+border-top: 1px solid #ffffff;
+}
+.accept{
+color: #ffffff;
 }
