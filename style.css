@@ -670,7 +670,7 @@ iMg {
   cursor: pointer;
 }
 /* neeeeeeeeeeeeeeeeeeeeeeeeeeeeeext seeeeeeeeeeeeectiooooooooooooooooooooooooooooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
-footer {
+ footer {
   background-color: #1c1b1b;
   height: 450px;
 }
@@ -682,6 +682,7 @@ footer {
   gap: 133px;
   margin-left: 146px;
 }
+
 .Icon {
   width: 176px;
   height: 32px;
